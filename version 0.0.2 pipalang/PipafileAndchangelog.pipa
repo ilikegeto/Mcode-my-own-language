@@ -45,6 +45,7 @@ int main() {
 
     array_int myintArray = {1, 2, 3, 4, 5}; //<- array number or int
     for (int i = 0; i < myintArray.size(); i++){value.scr(myintArray[i]); value.scr(", ");} //<- you can use array in loop too
+    mystrArray.pushitem(); //<- array push_back() 
 
     return 0;
 }
