@@ -23,7 +23,7 @@ loop vvv
  - for(int i = 0; i < variable; i++) {} <- for loop base on C++
  - while(i < variable) {} <- while loop base on C++ too
 
-if/elif/else
+if/elif/else vvv
 
  - if(condition) {} <- if statement
  - elif(condition) {} <- else if statement
