@@ -1,0 +1,10 @@
+main_code(){
+    int a = 10;
+    int b = 10;
+    int c = a - b;
+    str idk = "hello";
+    value.scr_nextl(c);
+    value.scr_nextl(a + b);
+    value.scr(idk);
+    value.scr("\nhello world");
+}
