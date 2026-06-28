@@ -1,11 +1,11 @@
-#WELCOME TO README.md
+# WELCOME TO README.md
 ---
-#**SOME NOTE**
+## **SOME NOTE**
 
 * this language is still Work In Progress(WiP)
 * this version still 6.3.0 friendly so don't worry but on newest version maybe you must update you C++ version
 ---
-#**HOW I RUN MY .PLP FILE**_?_
+## **HOW I RUN MY .PLP FILE**_?_
 
 1. first thing you must to do is: go to `plptestcpp.cpp` and run or compile it so `PipaCompile.cpp` can update your `plptestcpp.cpp`
 2. to run it write
@@ -19,7 +19,7 @@
    
 11. just wait until your file got run :D
 ---
-#**HELLO WORLD**
+## **HELLO WORLD**
 
 to print `hello world` simply use this code
 ```cpp
@@ -43,7 +43,7 @@ main_code(){
     //value.scr_nextl = cout with endl
 }
 ```
-#**END AND NOTE**
+## **END AND NOTE**
 > C++ version -> 6.3.0
 > discord server `Together C & C++`
 > forum:
