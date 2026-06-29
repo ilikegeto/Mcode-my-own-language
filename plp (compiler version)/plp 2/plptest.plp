@@ -1,0 +1,17 @@
+add "plplibrary.h";
+add "plptime.h";
+
+main_code(){
+    run.start();
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    value.scr_nextl("plp");
+    run.stop();
+}
